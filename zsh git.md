@@ -1,2 +1,0 @@
-- `glods` - `git hist`
-- `groh` - `git reset origin/$(git_current_branch) --hard`
